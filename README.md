@@ -23,7 +23,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 ![](PREWORKWEB102.gif)
-<img src='(https://imgur.com/a/ly9zhDM)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<p>Link to video walkthrough on Imgur: https://imgur.com/0Iuo1R8 </p>
+
+<!-- <img src='https://i.imgur.com/0Iuo1R8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' /> -->
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap
